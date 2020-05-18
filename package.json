@@ -1,0 +1,23 @@
+{
+  "name": "jaegerboost-light",
+  "version": "1.0.0",
+  "description": "A fucking shitty script to just boost Game-Hours on Steam",
+  "main": "Boost.js",
+  "dependencies": {
+    "steam-user": "4.15.3"
+  },
+  "scripts": {
+    "test": "node Boost.js",
+    "boost": "node Boost.js",
+    "start": "node Boost.js"
+  },
+  "keywords": [
+    "Jaeger33211",
+    "Free",
+    "Steam",
+    "Service",
+    "Boost"
+  ],
+  "author": "Jaeger33211 (Jaegerservice.xyz)",
+  "license": "ISC"
+}
